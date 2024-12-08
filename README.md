@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Saurabh</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+Oscar</a></h1>
+<h3 align="center">A passionate Java Script developer and Python data engienner from México &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -12,7 +12,7 @@ Saurabh</a></h1>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on System Recomendator
 
 - 🤝 I’m available for freelancing.
 
