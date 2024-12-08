@@ -1,3 +1,13 @@
-# 			Hello, i am Oscar
-
-![alt](https://https://i.pinimg.com/736x/7e/05/8d/7e058d01d8ee1303f1eeb7d92a7b3c0c.jpg)
+https://pin.it/4dgvEhdOW
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>oscarsnva15</title>
+</head>
+<body>
+    <h1>Hello word</h1>
+    <img src="https://pin.it/4dgvEhdOW" alt="portada_github">
+</body>
+</html>
