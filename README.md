@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning IA Machine learning <a href="https://www.kaggle.com/learn/certification/oscarsnva15/intro-to-machine-learning" target="blank">Using python</a>
 
-- 📝 I regularly write articles on Researchgate.net <a href="https://www.researchgate.net/profile/Oscar_Suarez_Nava" target="blank">esearcher Autonomous</a>
+- 📝 I regularly write articles on Researchgate.net <a href="https://www.researchgate.net/profile/Oscar_Suarez_Nava" target="blank">Researcher Autonomous</a>
 
 - 💬 Ask me about **Java Script & Python Data Analisys**
 
