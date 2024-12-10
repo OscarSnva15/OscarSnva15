@@ -34,8 +34,8 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/15711999/oscarsnva15">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" Width="10" Height="10" href="https://dev.to/oscarsnva15">
-					<img src="https://img.icons8.com/?size=100&id=34278&format=png&color=000000"></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/oscarsnva15">
+					<img Width="5" Height="5" src="https://img.icons8.com/?size=100&id=34278&format=png&color=000000"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/oscar_snva/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@OscarSnva15">
