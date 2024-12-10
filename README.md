@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarsnva15&label=Profile%20views&color=0e75b6&style=flat" alt="oscarsnva15" /> </p>
 
-<p align="left"> <a href="https://twitter.com/oscarsnva15" target="blank"><img src="https://img.shields.io/twitter/follow/oscarsnva15?logo=twitter&style=for-the-badge" alt="oscarsnva15" /></a> </p>
+<p align="left"> <a href="https://threads.com/oscarsnva15" target="blank"><img src="https://img.shields.io/threads/follow/oscarsnva15?logo=threads&style=for-the-badge" alt="oscarsnva15" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
