@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarsnva15&label=Profile%20views&color=0e75b6&style=flat" alt="oscarsnva15" /> </p>
 
-- 🔭 I’m currently working in project a<a href="#" target="blank">System recomender</a>
+- 🔭 I’m currently working in project a <a href="#" target="blank">System recomender</a>
 
-- 🌱 I’m currently Working on System Recomendator
+- 🌱 I’m currently Working on Python, Java Script, and React JS.
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning IA Machine learning && AWS <a href="https://github.com/OscarSnva15/python_system_recomendator" target="blank">Using python and Scala</a>
 
-- 📝 I regularly write articles on ---- no yet work -----
+- 📝 I regularly write articles on Researchgate.net <a href="https://www.researchgate.net/profile/Oscar_Suarez_Nava" target="blank">Researcher Autonomous</a>
 
 - 💬 Ask me about **Java Script & Python Data Analisys**
 
