@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in <a href="#" target="blank">Oscys</a>
 
-- 🌱 I’m currently Working on projects Python, Java Script, and Machine Learning.
+- 🌱 I’m currently Working on Python projects, Java Script pages, and Machine Learning models.
 
 - 🤝 I’m available for freelancing.
 
