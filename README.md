@@ -7,17 +7,23 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in project a <a href="https://github.com/OscarSnva15/python_system_recomendator" target="blank">System recomender</a>
+- 🔭 I’m currently working in project in <a href="#" target="blank">Oscys</a>
 
-- 🌱 I’m currently Working on Python, Java Script, and React JS.
+- 🌱 I’m currently Working on projects Python, Java Script, and Machine Learning.
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning IA Machine learning <a href="https://www.kaggle.com/learn/certification/oscarsnva15/intro-to-machine-learning" target="blank">Using python</a>
+- 🌟 I’m currently learning IA Machine learning <a href="https://www.kaggle.com/learn/certification/oscarsnva15/intro-to-machine-learning" target="blank">Using python</a>
+
+- ☕ I’m currently learning web develop<a href="https://www.udemy.com/certificate/UC-7a8ef87d-672e-4956-9e82-163ecf58f46e/" target="blank">Using Java Script</a>
+
+- 📊 I’m currently learning data visualization<a href="https://www.udemy.com/certificate/UC-d787d8d9-2a8d-46ec-8e84-07845d51102f/" target="blank">Using Excel</a>
+
+- 🇺🇸 I’m currently learning English<a href="https://openenglish.page.link/gqiV" target="blank">on Open Inglish</a>
 
 - 📝 I regularly write articles on Researchgate.net <a href="https://www.researchgate.net/profile/Oscar_Suarez_Nava" target="blank">Researcher Autonomous</a>
 
-- 💬 Ask me about **Java Script & Python Data Analisys**
+- 💬 Ask me about **Java Script, Python Data Analisys & Machine learning**
 
 - 📫 How to reach me **oscarsnva15@gmail.com**
 
