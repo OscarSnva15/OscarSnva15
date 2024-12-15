@@ -19,7 +19,7 @@
 
 - 📊 I’m currently learning Data Visualization<a href="https://www.udemy.com/certificate/UC-d787d8d9-2a8d-46ec-8e84-07845d51102f/" target="blank"> Using Excel</a>
 
-- 🇺🇸 I’m currently learning English<a href="https://openenglish.page.link/gqiV" target="blank"> on Open English</a>
+- 🇺🇸 I’m currently learning English on<a href="https://openenglish.page.link/gqiV" target="blank"> Open English</a>
 
 - 📝 I regularly write articles on Researchgate.net <a href="https://www.researchgate.net/profile/Oscar_Suarez_Nava" target="blank">Researcher Autonomous</a>
 
