@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **oscarsnva15@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/OscarSnva15/OscarSnva15/blob/main/Oscar%20Suarez%20Nava.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/OscarSnva15/OscarSnva15/blob/main/Oscar%20Suarez%20Nava.pdf" target="_blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
