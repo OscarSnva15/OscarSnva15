@@ -21,7 +21,7 @@
 
 - 🇺🇸 I’m currently learning English on<a href="https://openenglish.page.link/gqiV" target="blank"> Open English</a>
 
-- 📝 I regularly write articles on Researchgate.net <a href="https://www.researchgate.net/profile/Oscar_Suarez_Nava" target="blank">Researcher Autonomous</a>
+- 📝 In the future I will write articles on Researchgate.net. <a href="https://www.researchgate.net/profile/Oscar_Suarez_Nava" target="blank">Researcher Autonomous</a>
 
 - 💬 Ask me about **Java Script, Python Data Analisys & Machine learningls**
 
