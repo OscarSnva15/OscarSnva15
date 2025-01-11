@@ -7,15 +7,13 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="#" target="blank">Oscys</a>
-
-- 🌱 I’m currently Working on Python, JavaScript, and Machine Learning models.
+- 🌱 I’m currently Working on System Recommender System.
 
 - 🤝 I’m available for freelancing.
 
 - 🌟 I’m currently learning IA Machine Learning<a href="https://www.kaggle.com/learn/certification/oscarsnva15/intro-to-machine-learning" target="blank"> Using Python</a>
 
-- ☕ I’m currently learning Web Development<a href="https://www.udemy.com/certificate/UC-7a8ef87d-672e-4956-9e82-163ecf58f46e/" target="blank"> Using Java Script</a>
+- ☕ I’m currently learning Web Development<a href="https://github.com/OscarSnva15/Python_django_system_web" target="blank"> Using Django</a>
 
 - 📊 I’m currently learning Data Visualization<a href="https://www.udemy.com/certificate/UC-d787d8d9-2a8d-46ec-8e84-07845d51102f/" target="blank"> Using Excel</a>
 
@@ -23,7 +21,7 @@
 
 - 📝 In the future I will write articles on Researchgate.net. <a href="https://www.researchgate.net/profile/Oscar_Suarez_Nava" target="blank">Researcher Autonomous</a>
 
-- 💬 Ask me about **Java Script, Python Data Analisys & Machine learning**
+- 💬 Ask me about **Java Script, Django3/Flask, and Data Science**
 
 - 📫 How to reach me **oscarsnva15@gmail.com**
 
