@@ -21,7 +21,7 @@
 
 - 📝 In the future I will write articles on Researchgate.net. <a href="https://www.researchgate.net/profile/Oscar_Suarez_Nava" target="blank">Researcher Autonomous</a>
 
-- 💬 Ask me about **Java Script, Django3/Flask, and Data Science**
+- 💬 Ask me about **Java Script, Django3/Flask, and Data Science.**
 
 - 📫 How to reach me **oscarsnva15@gmail.com**
 
