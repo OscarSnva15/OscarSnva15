@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="#" target="blank">Oscar</a></h1>
-<h3 align="center">A passionate Java Script developer and Python Data Engienner from México &#127474;&#127485</h3>
+<h3 align="center">A passionate Java Script developer and Python Data Science from México &#127474;&#127485</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarsnva15&label=Profile%20views&color=0e75b6&style=flat" alt="oscarsnva15" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in <a href="#" target="blank">Oscys</a>
 
-- 🌱 I’m currently Working on Python projects, Java Script pages, and Machine Learning models.
+- 🌱 I’m currently Working on Python, JavaScript, and Machine Learning models.
 
 - 🤝 I’m available for freelancing.
 
@@ -23,7 +23,7 @@
 
 - 📝 In the future I will write articles on Researchgate.net. <a href="https://www.researchgate.net/profile/Oscar_Suarez_Nava" target="blank">Researcher Autonomous</a>
 
-- 💬 Ask me about **Java Script, Python Data Analisys & Machine learningls**
+- 💬 Ask me about **Java Script, Python Data Analisys & Machine learning**
 
 - 📫 How to reach me **oscarsnva15@gmail.com**
 
