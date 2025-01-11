@@ -15,7 +15,7 @@
 
 - ☕ I’m currently learning Web Development<a href="https://github.com/OscarSnva15/Python_django_system_web" target="blank"> Using Django</a>
 
-- 📊 I’m currently learning Data Visualization<a href="https://www.udemy.com/certificate/UC-d787d8d9-2a8d-46ec-8e84-07845d51102f/" target="blank"> Using Excel</a>
+- 📊 I’m currently learning Data Visualization<a href="https://www.udemy.com/certificate/UC-d787d8d9-2a8d-46ec-8e84-07845d51102f/" target="blank"> Using Excel</a> and <a href="https://www.kaggle.com/learn/certification/oscarsnva15/pandas" target="blank">Pandas</a>
 
 - 🇺🇸 I’m currently learning English on<a href="https://openenglish.page.link/gqiV" target="blank"> Open English</a>
 
